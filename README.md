@@ -68,3 +68,19 @@ outlook, same clock — announce it on the spine's registry
 <!--trust-->
 No ratings yet — used this chain? [Rate it](../../issues/new?template=rate.yml): valid ratings publish automatically as verifiable frames.
 <!--/trust-->
+
+## Summon this node
+
+A MISSION chant — 14 words — carries the `firstaid:@kody-w/dogg-firstaid` dimension's identity, its tick, a hash prefix that pins the exact frame, and a quantized snapshot of tree_version, branches, cpr_rate_per_min.
+
+```
+KNELL CAST FRISK FORGE FORGE PLEDGE ICECAP ANVIL ELIXIR SCROLL NEXUS ELM THUNDER DUB
+```
+
+`dogg:1:14:BIALoYAAAfm6wB0klSoYgQGY`
+
+Tap to decode: [https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALoYAAAfm6wB0klSoYgQGY](https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALoYAAAfm6wB0klSoYgQGY)
+
+This chant carries three things: which dimension it names (`firstaid:@kody-w/dogg-firstaid`), which tick and frame it was cut from (tick 1, hash prefix `3e6eb`), and the field values above, quantized (log-quantized, ~0.3% relative (1e-6 … 1e15)) — enough to recognize the node and sanity-check a claim about it without touching the network.
+
+This is a snapshot of one tick (tick 1) — the numbers move as the stream advances, so re-mint with `python3 tools/dogg.py mission firstaid:@kody-w/dogg-firstaid` for the latest.
