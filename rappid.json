@@ -1,0 +1,13 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/dogg-firstaid:f5eb15a8dd4d37b9293a5dd18c2c1dad9cd7fbd5921c140ea3e0deecff352309",
+  "kind": "node",
+  "name": "dogg-firstaid",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "dogg-firstaid",
+  "github": "https://github.com/kody-w/dogg-firstaid",
+  "parent_rappid": "rappid:@kody-w/dogg:398899d4c850bc28fabe33115c52436def0d485c34753e9bbef06e4c283892b4",
+  "minted_at": "2026-08-28T17:47:00Z",
+  "notes": "Federated node of the global tick network; descends from the spine thread. Minted once per RAPP spec §6.2 — uuid-entropy tail, never a name-hash."
+}
