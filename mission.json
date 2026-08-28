@@ -4,22 +4,22 @@
  "fields": [
   {
    "name": "tree_version",
-   "path": "payload.firstaid.tree_version",
+   "path": "firstaid.tree_version",
    "unit": "version"
   },
   {
    "name": "branches",
-   "path": "payload.firstaid.branches",
+   "path": "firstaid.branches",
    "unit": "count"
   },
   {
    "name": "cpr_rate_per_min",
-   "path": "payload.firstaid.cpr_rate_per_min",
+   "path": "firstaid.cpr_rate_per_min",
    "unit": "compressions/min"
   },
   {
    "name": "compression_depth_mm",
-   "path": "payload.firstaid.compression_depth_mm",
+   "path": "firstaid.compression_depth_mm",
    "unit": "mm"
   }
  ],
