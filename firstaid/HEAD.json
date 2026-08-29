@@ -1,8 +1,8 @@
 {
-  "count": 3,
+  "count": 4,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "firstaid:@kody-w/dogg-firstaid",
-  "head_frame": "ba3c35b5c6dfa326365052a59540cd0276f628cbd2267076eb85bd8205bceb4c",
-  "updated": "2026-08-28T20:08:08.036Z"
+  "head_frame": "2a7821cecb1c9f7aa2413f902a62f41c51eab5abd2a83d5269240efba51425ca",
+  "updated": "2026-08-29T12:44:08.746Z"
 }
